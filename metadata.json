@@ -1,0 +1,6 @@
+{
+  "name": "EconBiz",
+  "description": "Economics & Business teacher portal for tracking student progress, course enrollments, automated grading, and real-time performance insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
